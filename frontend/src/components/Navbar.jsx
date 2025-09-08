@@ -44,7 +44,7 @@ const Navbar = () => {
           <hr className="border-none outline-none h-0.5 bg-[#5f6FFF] w-3/5 m-auto hidden" />
         </NavLink>
         <NavLink
-          to="http://localhost:5174"
+          to="https://vytal-admin.vercel.app"
           target="_blank"
           className="py-2 text-xs border px-4 rounded-full border-stone-200"
         >
@@ -135,7 +135,7 @@ const Navbar = () => {
             <NavLink onClick={() => setShowMenu(false)} to="/contact">
               <p className="px-4 py-2 rounded inline-block">CONTACT</p>
             </NavLink>
-            <NavLink onClick={() => setShowMenu(false)} to="" target="_blank">
+            <NavLink onClick={() => setShowMenu(false)} to="https://vytal-admin.vercel.app" target="_blank">
               <p className="py-2 border px-4 rounded-full border-stone-200">
                 Admin Panel
               </p>

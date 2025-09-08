@@ -35,7 +35,7 @@ const AllAppointments = () => {
               <p className="font-medium text-2xl">No Appointments to show</p>
               <NavLink
                 target="_blank"
-                to="http://localhost:5173/doctors"
+                to="https://vytal-ten.vercel.app/doctors"
                 className="bg-[#5f6fff] text-white px-3 py-2 rounded-lg cursor-pointer mt-3"
               >
                 Book Appointment
