@@ -1,6 +1,6 @@
 # Vytal 🩺  
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)  
-![Tech](https://img.shields.io/badge/stack-Next.js%20%7C%20Node.js%20%7C%20MongoDB-blue)  
+![Tech](https://img.shields.io/badge/stack-React.js%20%7C%20Node.js%20%7C%20MongoDB-blue)  
 
 A **doctor appointment platform** that simplifies healthcare by connecting **Admin, Doctors, and Users** on a single seamless system.  
 
